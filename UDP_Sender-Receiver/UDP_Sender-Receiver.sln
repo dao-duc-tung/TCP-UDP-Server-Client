@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP_Sender-Receiver", "UDP_Sender-Receiver\UDP_Sender-Receiver.vcxproj", "{1D646058-1248-441F-97C7-E5FDD03558C2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP_Receiver-Sender", "UDP_Receiver-Sender\UDP_Receiver-Sender.vcxproj", "{BCC24DB6-5D23-4A6D-9538-1FE9B181E04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D646058-1248-441F-97C7-E5FDD03558C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D646058-1248-441F-97C7-E5FDD03558C2}.Debug|Win32.Build.0 = Debug|Win32
+		{1D646058-1248-441F-97C7-E5FDD03558C2}.Release|Win32.ActiveCfg = Release|Win32
+		{1D646058-1248-441F-97C7-E5FDD03558C2}.Release|Win32.Build.0 = Release|Win32
+		{BCC24DB6-5D23-4A6D-9538-1FE9B181E04A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCC24DB6-5D23-4A6D-9538-1FE9B181E04A}.Debug|Win32.Build.0 = Debug|Win32
+		{BCC24DB6-5D23-4A6D-9538-1FE9B181E04A}.Release|Win32.ActiveCfg = Release|Win32
+		{BCC24DB6-5D23-4A6D-9538-1FE9B181E04A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
